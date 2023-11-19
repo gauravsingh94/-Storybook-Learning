@@ -155,6 +155,7 @@ const meta: Meta<typeof Light> = {
 };
 ```
 
+
 ![[Pasted image 20231117021725.png]]
 
 #### By changing the control type to radio 
@@ -172,5 +173,9 @@ const meta: Meta<typeof Light> = {
 ```
 
 #### This will make it radio button
+
+
+
+
 ![[Pasted image 20231117021816.png]]
 
